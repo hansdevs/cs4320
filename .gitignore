@@ -1,0 +1,17 @@
+# Ignore dataset folder
+Dataset/
+dataset/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
