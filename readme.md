@@ -82,13 +82,10 @@ print(f"Predictions: {predictions[:10]}")
 | Overfitting      | Model is too complex, fits training data too closely, poor on new data.      |
 | Cross-Validation | Technique to estimate model performance and prevent overfitting/underfitting.|
 
-
-
-
 ---
 
 ## Further Reading
 
 - [Scikit-learn: Cross-validation](https://scikit-learn.org/stable/modules/cross_validation.html)
 - [Wikipedia: Cross-validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics))
-- [Professor Example in Class] (https://towardsdatascience.com/overfitting-and-underfitting-principles-ea8964d9c45c/)
+- [Overfitting and Underfitting Principles (Towards Data Science)](https://towardsdatascience.com/overfitting-and-underfitting-principles-ea8964d9c45c/)
