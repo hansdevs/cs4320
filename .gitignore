@@ -1,3 +1,11 @@
 pythoncode/data/creditcard.csv
 pythoncode/data/house_sales.ftr
 pythoncode/data/imdb_master.csv
+.ds_store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+node_modules
+npm-debug.log* 
